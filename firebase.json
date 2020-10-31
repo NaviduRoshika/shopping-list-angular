@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/shoplist-app",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
